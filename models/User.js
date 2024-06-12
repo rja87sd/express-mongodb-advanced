@@ -1,4 +1,5 @@
 // models/User.js
+// Credit to ChatGPT for assistance and code comments.
 
 'use strict';
 

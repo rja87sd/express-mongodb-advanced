@@ -116,4 +116,7 @@ URL: http://localhost:3000/users/<user-id>
 
 # Submission
 GitHub Repository: Create a new repository named express-mongodb-advanced. Push your project to the repository and submit the URL. Ensure it includes all necessary files to run the server, including the README.md.
-Screenshots: Include the screenshots of your POST, GET, PUT, and DELETE requests in the README.md.8
+Screenshots: Include the screenshots of your POST, GET, PUT, and DELETE requests in the README.md.
+
+## Credits
+Credit to ChatGPT for assistance and code comments.
